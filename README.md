@@ -1,6 +1,6 @@
 ### Hello, nice to meet you. 👋
 
-I'm a Princial Engineer [@trusted](https://github.com/trusted).
+I'm a Principal Engineer [@trusted](https://github.com/trusted).
 
 Creator and maintainer of [devise-async](https://github.com/mhfs/devise-async) and [sidekiq-failures](https://github.com/mhfs/sidekiq-failures).
 
